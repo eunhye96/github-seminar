@@ -7,7 +7,19 @@ Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "seminar", "seminar\seminar.
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C38A96F8-4B48-4D69-B193-083E9AF7ACF7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{BF4B844B-38D9-4BED-AC4F-AD74378E151D}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF4B844B-38D9-4BED-AC4F-AD74378E151D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF4B844B-38D9-4BED-AC4F-AD74378E151D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF4B844B-38D9-4BED-AC4F-AD74378E151D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF4B844B-38D9-4BED-AC4F-AD74378E151D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
