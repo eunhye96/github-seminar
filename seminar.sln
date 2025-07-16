@@ -6,8 +6,11 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "seminar", "seminar\seminar.shproj", "{BB3A01BA-9110-4E3C-B9A6-97D577B18CDE}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C38A96F8-4B48-4D69-B193-083E9AF7ACF7}"
+	ProjectSection(SolutionItems) = preProject
+		conflick.txt = conflick.txt
+	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{BF4B844B-38D9-4BED-AC4F-AD74378E151D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{BF4B844B-38D9-4BED-AC4F-AD74378E151D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
